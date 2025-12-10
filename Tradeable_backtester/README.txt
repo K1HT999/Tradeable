@@ -48,4 +48,5 @@ How to Run
 
 2. Enter Alpaca Keys in main
 3. Run program: 
-python main.py
+
+python TradeableBT.py
