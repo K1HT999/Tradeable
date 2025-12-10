@@ -1,0 +1,5 @@
+pandas
+numpy
+alpaca-py
+nest_asyncio
+pytz
